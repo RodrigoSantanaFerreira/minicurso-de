@@ -1,7 +1,7 @@
-### Dataset
-https://dados.gov.br/dados/conjuntos-dados/vendas-do-tesouro-direto1
+# Mini Curso de Engenharia de Dados
 
 ### Para rodar a aplicação de ingestão faça:
+- Faça download do dataset no link: https://dados.gov.br/dados/conjuntos-dados/vendas-do-tesouro-direto1
 - Provisione o RDS PostgreSQL na AWS conforme abordado em aula.
 - Crie um banco de dados, por exemplo: db
 - Instale as bibliotecas usando o arquivo requirements.txt exemplo:
