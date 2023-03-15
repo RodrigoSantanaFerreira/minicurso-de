@@ -1,6 +1,7 @@
 # Mini Curso de Engenharia de Dados
 
 ### Para rodar a aplicação de ingestão faça:
+- Navegue até o diretório **ingestion**
 - Faça download do dataset no link: https://dados.gov.br/dados/conjuntos-dados/vendas-do-tesouro-direto1
 - Provisione o RDS PostgreSQL na AWS conforme abordado em aula.
 - Crie um banco de dados, por exemplo: db
